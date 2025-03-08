@@ -4,6 +4,7 @@
 To view dashboard: https://github.com/Vilasagarvaishnavi/Sales-Analysis/blob/main/Dashboard.PNG
 
 # Features
+![Capture](https://github.com/user-attachments/assets/8bdc9b66-4bfb-4678-b362-7209f8510c05)
 
 Regional Performance Tracking
 

@@ -1,7 +1,7 @@
 #Overview
 
 This Power BI project is a dynamic dashboard that tracks key business metrics—Sales, Profit, and Quantity—across four regions: Central, East, South, and West. The dashboard is designed to provide interactive data visualizations with year-based filtering and dynamic metric selection. It also includes a year-over-year (YoY) comparison with previous-year (PY) sales.
-To view dashboard
+To view dashboard: https://github.com/Vilasagarvaishnavi/Sales-Analysis/blob/main/Dashboard.PNG
 
 #Features
 

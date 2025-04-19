@@ -3,7 +3,7 @@
 ## This Power BI project is a dynamic dashboard that tracks key business metrics—Sales, Profit, and Quantity—across four regions: Central, East, South, and West. The dashboard is designed to provide interactive data visualizations with year-based filtering and dynamic metric selection. It also includes a year-over-year (YoY) comparison with previous-year (PY) sales.
 
 Dashboard
-![Capture](https://github.com/user-attachments/assets/8bdc9b66-4bfb-4678-b362-7209f8510c05)
+![Capture1](https://github.com/user-attachments/assets/ed5302fe-849e-4575-9eba-9a249970027f)
 
 # Features
 Regional Performance Tracking
